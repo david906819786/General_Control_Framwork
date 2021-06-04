@@ -1,2 +1,2 @@
-# General_Control_Framwork
+# General_Control_Framework
 Civil Use in Aerospace, Automation, and Robotics
